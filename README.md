@@ -1,3 +1,3 @@
 # cypressautomation001
 
-this is tondescribe my project
+this is to describe my learning project
